@@ -1,0 +1,231 @@
+@media only screen and (max-width: 480px) {
+  .header-left {
+    display: none;
+}
+.create-heading h2 {
+    font-size: 71px !important;
+    word-break: break-word !Important;
+}
+.row {
+    margin: 0px;
+}
+.row {
+    width: 100%;
+    margin: 0px;
+}
+.header-top-left img {
+    padding-left: 23px;
+    top: -26px;
+}
+.modal-menu {
+    margin-top: 0px;
+}
+.modal-menu ul {
+    display: block;
+}
+.modal-menu ul li a {
+    font-size: 36px;
+}
+.modal-menu ul li {
+    margin-bottom: 11px;
+}
+.modal-descr {
+    display: block;
+    margin-top: 20px;
+}
+.descr-le p {
+    margin-bottom: 48px;
+}
+.modal-dialog {
+    top: 103px;
+}
+.create-content {
+    padding: 0px 21px;
+}
+.create-content button {
+    margin-top: 0px;
+}
+.create-sec {
+    padding-bottom: 34px;
+}
+.Design {
+    padding-left: 20px;
+}
+section.logo-sec {
+    margin: 40px 0px;
+}
+.Design h4 {
+    margin-bottom: 16px;
+    margin-top: 11px;
+}
+.logo-sec h4 {
+    padding: 0px 20px;
+    text-align: justify;
+    margin-bottom: 54px;
+}
+.logo-images {
+    display: block;
+}
+.logo-images img {
+    vertical-align: middle;
+    width: 45%;
+    margin: auto;
+    display: grid;
+    margin-bottom: 30px;
+}
+.our-work h3 {
+    margin-bottom: 60px;
+    font-size: 43px;
+}
+.our-work-img {
+    padding: 20px;
+}
+.grid-imge {
+    margin-left: 20px;
+}
+.grid-img {
+    margin-left: 20PX;
+}
+.grid-img1 {
+    MARGIN-LEFT: 16PX;
+}
+.new-box {
+    margin: 0PX;
+}
+.wraper-client h4 {
+    margin-bottom: 43px;
+}
+.work-section h3 {
+    text-align: center;
+}
+.work-right {
+    text-align: -webkit-center;
+    margin-right: 0px;
+    float:unset;
+}
+.footer-section {
+    margin-left: 0PX;
+}
+.section2 img {
+    height: 400PX;
+}
+.author-flex {
+    margin: 0PX;
+}
+.copyri {
+    margin-bottom: 33px;
+    margin-top: 20px;
+}
+.up a {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    right: 24px;
+    bottom: -34px;
+}
+form {
+    position: relative;
+}
+form span {
+    top: 18px !Important;
+}
+.new-box.new-one {
+    margin-left: 0px;
+    margin-bottom: 11px;
+}
+.new-box.new-two {
+    margin-right: 0px;
+}
+.quote-text {
+    margin-bottom: 16px;
+    height: auto;
+}
+.client-wrapper {
+    height: auto;
+}
+a.work-circle-right {
+    top: 24%;
+    left: 34%;
+}
+.black-paragraph {
+    font-size: 14px;
+}
+.content-center .row {
+    margin-left: 0px !important;
+}
+.about-img img {
+    width: 100%;
+    float: unset;
+    margin-right: 0px;
+}
+.our-team-sec {
+    margin-bottom: 20px;
+}
+.bloginner-content {
+    padding: 0px;
+}
+.news-section.news-section-two {
+    margin: 0px;
+}
+.news-section.news-section-two h5 {
+    margin-top: 16px;
+    font-size: 45px;
+}
+}
+
+
+
+@media only screen and (max-width: 768px) {
+.row {
+    width: 100%;
+}
+p.new-para-2 a {
+    font-size: 18px;
+}
+.header-left {
+    display: none;
+}
+.grid-headings h4 {
+    font-size: 16px;
+}
+.black-paragraph {
+    font-size: 14px;
+}
+form span {
+    top: 103px;
+}
+.quote-text {
+    font-size: 15px;
+    height: 73px;
+}
+.client-wrapper {
+    padding: 10px;
+}
+.client-wrapper {
+    padding: 18px 10px;
+    height: 300px;
+}
+.results-grid .col-md-2.col-2 {
+    margin-top: -7px;
+}
+.with-line h4 {
+    padding-bottom: 10px;
+}
+.create-heading h2 {
+    font-size: 79px;
+    line-height: 0.9;
+    word-break: break-word;
+}
+.bloginner {
+    padding-top: 137px;
+    padding-bottom: 0px;
+}
+.blogs-section h1 {
+    margin: 27px 0px;
+    font-size: 33px;
+}
+.blogs-section {
+    padding: 0px;
+}
+}
